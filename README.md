@@ -1,6 +1,6 @@
 # Titanic-Dataset-Classification
 
-We are here Classifying whether a person had survived or not in the Titanic disaster using all the Classification Algorithms.
+We are here Classifying whether a person was survived or not in the Titanic disaster using all the Classification Algorithms.
 
 
 ## Technologies Used
